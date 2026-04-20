@@ -1,0 +1,29 @@
+Paso 1: Buscar información
+Escribir "Buscar información en internet sobre un tema ciudadano"
+Leer informacion
+
+Paso 2: Verificar información
+Si informacion es confiable Entonces
+Escribir "Información verificada"
+
+Sino
+Escribir "Descartar información no confiable"
+FinAlgoritmo
+
+FinSi
+
+Paso 3: Analizar contenido
+Escribir "Analizar impacto de la información en la comunidad"
+
+Paso 4: Participar
+Escribir "Generar opinión o propuesta de manera respetuosa"
+
+Paso 5: Organizar trabajo con Git
+Escribir "Organizar ideas y cambios usando Git"
+
+Paso 6: Evaluar resultados
+Escribir "Evaluar resultados y realizar mejoras"
+
+  Fin
+
+FinAlgoritmo
