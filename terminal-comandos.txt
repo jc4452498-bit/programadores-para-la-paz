@@ -1,0 +1,8 @@
+ls
+git init 
+git push 
+git push --set-upstream origin master
+git status 
+mkdir 
+cd 
+pwd 
