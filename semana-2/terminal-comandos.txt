@@ -1,0 +1,11 @@
+ls
+git init 
+git push 
+git push --set-upstream origin master
+git status 
+mkdir 
+cd 
+pwd
+touch reflexion-semana2.txt
+touch preguntas-semana2.txt
+touch terminal-comandos.txt
