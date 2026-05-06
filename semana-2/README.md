@@ -1,2 +1,2 @@
 # programadores-para-la-paz
-SEMANA 1
+SEMANA 2
