@@ -1,5 +1,0 @@
- eficiencia. Con comandos puedes navegar, crear, mover o eliminar archivos mucho más rápido que con interfaz gráfica, sobre todo cuando el proyecto crece o tienes muchas carpetas. En segundos haces lo que con clics tomaría más tiempo.
- Segundo, el control real del proyecto. Muchas herramientas de desarrollo funcionan directamente en la terminal. Por ejemplo, con Git puedes gestionar versiones, ramas y cambios de forma más completa que en interfaces visuales. Lo mismo pasa con gestores de paquetes como npm o pip.
- Tercero, automatización. La terminal te permite crear scripts para repetir tareas: instalar dependencias, ejecutar pruebas, desplegar proyectos, etc. Eso ahorra tiempo y reduce errores humanos.
- Cuarto, trabajar en servidores. Muchos entornos reales (como servidores en la nube) no tienen interfaz gráfica. Si sabes usar la terminal, puedes manejar proyectos en cualquier entorno, incluso remoto.
-Y por último, comprensión del sistema. Usar la terminal te obliga a entender mejor cómo están organizados los archivos, rutas, permisos y procesos, lo cual te hace un desarrollador más sólido.             
