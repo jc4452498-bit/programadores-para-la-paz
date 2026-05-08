@@ -1,0 +1,19 @@
+Mantener un registro de cambios con herramientas como Git no es solo algo “técnico”, es clave para trabajar bien en equip y evitar problemas serios en un proyecto. Te lo explico de forma clara:
+
+1. Permite ver qué cambió y cuándo
+Cada modificación queda guardada con fecha, autor y descripción. Si algo falla, puedes rastrear exactamente qué cambio lo causó.
+
+2. Facilita el trabajo en equipo
+Varios desarrolladores pueden trabajar al mismo tiempo sin sobrescribir el trabajo de otros. Git organiza los cambios y luego los integra.
+
+3. Permite volver atrás sin perder todo
+Si introduces un error, puedes regresar a una versión anterior estable del proyecto sin empezar desde cero.
+
+4. Mejora la organización del proyecto
+Con ramas (branches), puedes trabajar en nuevas funciones o corregir errores sin afectar la versión principal.
+
+5. Sirve como historial y evidencia del progreso
+El registro de cambios muestra cómo ha evolucionado el proyecto, lo cual es útil para evaluaciones, reportes o mantenimiento.
+
+6. Fomenta buenas prácticas
+Obliga a documentar los cambios (commits), lo que mejora la comunicación y hace el código más entendible para otros.

@@ -1,0 +1,27 @@
+REPOSITORIO
+
+Es el lugar donde vive tu proyecto.
+Ahí se guarda todo: archivos, carpetas y el historial de cambios.
+
+Puede estar en tu computadora (local) o en internet como en GitHub (remoto).
+
+Piensa en él como una carpeta inteligente que recuerda cada versión del proyecto.
+
+COMMIT 
+
+Un commit es como tomar una “foto” de tu proyecto en un momento específico.
+
+Guarda los cambios que hiciste.
+
+Siempre lleva un mensaje explicando qué hiciste (ej: “Agregué login”).
+
+Te permite volver a versiones anteriores si algo falla.
+
+
+PUSH 
+
+El push es enviar tus commits al repositorio remoto.
+
+Sube tus cambios desde tu computadora a internet.
+
+Permite que otros vean o trabajen con tu código.
