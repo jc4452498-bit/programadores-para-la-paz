@@ -1,0 +1,13 @@
+app.post('/reporte', (req, res) => {
+  const mensaje = req.body.mensaje;
+    res.json({
+        estado: "Reporte recibido",
+	    mensaje: mensaje
+	      });
+	      });
+
+esa ruta sirve para que una aplicaciónpueda recibir un reporte o mensaje enviado por un usuario y confirmar que lo recibiócorrectamente.
+
+Para qué podría servir en una aplicación comunitaria
+
+En una aplicación comunitaria podría servir para que las personas envíen reportes, avisos o alertas a la comunidad o a los administradores
