@@ -1,0 +1,13 @@
+{
+
+"nombre": maria 
+"mensaje": "hola comunidad"
+}
+
+{
+    "estado:"datos recibidos"
+    "nombre": "Maria", 
+    "mensaje": "hola comunidad"
+}
+
+en la primera linea envia al servidor una petción y ya en la segunda linea servidor recibe nombre y mensaje, y responde confirmando que los recibió junto con esos mismos datos.
