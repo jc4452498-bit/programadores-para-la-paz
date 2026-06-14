@@ -1,0 +1,10 @@
+1. Realizar copias de seguridad periódicas: guardar respaldos de la información para evitar pérdidas por fallos o ataques.
+
+2. Actualizar constantemente el sistema: mantener la plataforma y sus herramientas actualizadas para corregir vulnerabilidades.
+
+3. Verificar la identidad de los usuarios: usar métodos de autenticación para evitar accesos de personas no autorizadas.
+
+4. Monitorear la actividad de la plataforma: revisar comportamientos extraños o intentos de acceso que puedan representar riesgos.
+
+5. Capacitar a los usuarios en seguridad digital: enseñar buenas prácticas para reducir errores y proteger la información.
+

@@ -1,0 +1,5 @@
+realizar copias de seguridad: guardar una copia de la información importante para poder recuperarla en caso de pérdida, daño o fallas del sistema.
+
+Evitar abrir enlaces o archivos desconocidos: revisar el origen de los mensajes antes de hacer clic para prevenir engaños o programas maliciosos.
+
+Usar conexiones seguras: evitar ingresar información privada en redes públicas o poco confiables y preferir redes protegidas.

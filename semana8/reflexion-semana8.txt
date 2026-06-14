@@ -1,0 +1,3 @@
+seguridad digital es importante en plataformas tecnológicas comunitarias porque protege la información de los usuarios, evita accesos no autorizados y ayuda a mantener la confianza delas personas que participan. Cuando una comunidad usa una plataforma para registrar reportes, compartir información o tomar decisiones, es necesario garantizar que los datos no sean modificados, eliminados o usados de forma incorrecta.
+
+Además, aplicar medidas de seguridad permite que la plataforma funcione de manera estable, reduzca riesgos de ataques o fallos y asegure que la participación de los ciudadanos sea confiable y transparente. Esto fortalece la organización de la comunidad y facilita que las personas sigan usando la herramienta con mayor confianza.
