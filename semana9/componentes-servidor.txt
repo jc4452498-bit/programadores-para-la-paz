@@ -1,0 +1,39 @@
+Sistema operativo
+
+El sistema operativo es el encargado de administrar los recursos del computador.
+Permite que los programas puedan ejecutarse y comunicarse conel hardware.
+Controla la memoria, archivos, procesos y conexiones de red.
+También proporciona el entorno donde funcionan herramientas como Node.js.
+Sin el sistema operativo no sería posible ejecutar una aplicación de servidor.
+
+Node.js
+
+Node.js es un entorno que permite ejecutar código JavaScript fuera del navegador.
+Se utiliza principalmente para crear aplicaciones y servidores web.
+Permite recibir solicitudes, procesarlas y enviar respuestas a los usuarios.
+Trabaja con un motor de JavaScript llamado V8.
+Es la herramienta que ejecuta el archivo server.js.
+
+Aplicación server.js
+
+El archivo server.js contiene el código de la aplicación del servidor.
+Define qué hará el programa cuando reciba una petición.
+Puede crear rutas, responder mensajes y manejar datos.
+Al ejecutarlo con Node.js, inicia el funcionamiento del servidor.
+Es el punto principal donde se configura la lógica de la aplicación.
+
+Puerto
+
+El puerto es un punto de comunicación dentro de un equipo.
+Permite que un servicio sea encontrado mediante una dirección específica.
+Un servidor web escucha normalmente en un puerto como 3000 o 8080.
+Cuando un usuario entra a una dirección, se conecta a ese puerto.
+Ayuda a diferenciar diferentes aplicaciones funcionando al mismo tiempo.
+
+Logs
+
+Los logs son mensajes que muestran información sobre lo que ocurre en una aplicación.
+Sirven para saber si el servidor inició correctamente o si hay errores.
+También permiten revisar las solicitudes que recibe el sistema.
+Ayudan a los desarrolladores a encontrar problemas y corregirlos.
+Normalmente aparecen en la terminal mientras el programa estáfuncionando.	

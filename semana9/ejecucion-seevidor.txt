@@ -1,0 +1,14 @@
+¿Qué ocurre cuando ejecutas node server.js.?
+
+ocurre que Node.js inicia el servidor y empieza a ejecutar elcódigo que está dentro del archivo server.js.
+
+
+Normalmente en la terminal aparece un mensaje parecido a:
+ejecutandose en http://localhost:3000
+
+
+Después, cuando visitas la ruta:
+http://localhost:3000/estado
+
+el navegador hace una petición al servidor y este responde con la información que hayas programado en esa ruta. Por ejemplo, podría mostrar algo como:
+
